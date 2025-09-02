@@ -29,8 +29,8 @@ Um das Projekt auszuführen, benötigst du:
 
 1. **Repository klonen**:
    ```bash
-   git clone <repository-url>
-   cd Technische_Inf_2
+   git clone https://github.com/Clintbr/-Kreuzung-Ampeln.git
+   cd -Kreuzung-Ampeln
 
 2. **In Arduino IDE öffnen**:
 
